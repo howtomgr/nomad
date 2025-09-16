@@ -1,0 +1,63 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:58.440345",
+  "default_ports": [
+    80,
+    443,
+    4646,
+    4647
+  ],
+  "dependencies": [],
+  "description": "nomad is a free and open-source flexible workload orchestrator. HashiCorp Nomad enables deployment and management of containers and non-containerized applications, serving as a simpler alternative to Kubernetes",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/nomad",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/nomad",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.440362",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "nomad",
+  "repository_url": "https://github.com/howtomgr/nomad",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "nomad Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/nomad"
+}
